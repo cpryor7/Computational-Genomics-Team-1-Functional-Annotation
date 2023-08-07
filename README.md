@@ -1,5 +1,7 @@
 # Team1-FunctionalAnnotation
 
+Jiyeong Choi, Asmita Lagwankar, Chloe Pryor, Hannah Snyder, Likitha Venkatesh, Jiahong Zang
+
 # Overview
 Functional annotations describe the biochemical and biological function of proteins. There are homology-based and *ab intio* tools which are evidence based and using intrinsic characteristic of genome sequence. Our strategy is to run five different tools with FASTA files from gene prediction group and merge the outputs together. The chosen tools are eggNog-mapper, CARD-RGI, SingalP, Deep TMHMM, and VFDB.
 
