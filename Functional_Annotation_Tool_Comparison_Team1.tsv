@@ -1,0 +1,7 @@
+Statistical Comparison		
+	CPU	Time
+SignalP	10.00%	3-4 mins
+TMHMM	13%	17-18 mins
+eggNOG	9.97%	32.55 mins
+CARD-RGI	9.96%	54.6s
+Blast	9.95%	42.25s

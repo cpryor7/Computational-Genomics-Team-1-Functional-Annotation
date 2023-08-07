@@ -1,0 +1,954 @@
+NODE_1_length_269420_cov_42.771695_1	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1370	Eggnog: 1.18e-12	Eggnog: 66.2	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_2	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 199310.c1548	Eggnog: 1.53e-60	Eggnog: 186.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_3	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1368	Eggnog: 3.22e-47	Eggnog: 151.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_4	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1367	Eggnog: 4e-170	Eggnog: 474.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_5	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 379329.Q08J43_9CAUD	Eggnog: 2.44e-82	Eggnog: 243.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_6	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 10730.Q9XJI8_BP933	Eggnog: 5.93e-100	Eggnog: 290.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_7	CDS	Start: 269238	Stop: 269420	BlastVirStart: 21	BlastVirStop: 278	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1365	Eggnog: 4.89e-264	Eggnog: 721.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_8	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 10730.Q9XJI6_BP933	Eggnog: 6.41e-29	Eggnog: 103.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_9	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1364	Eggnog: 1.02e-83	Eggnog: 247.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_10	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1363	Eggnog: 1.19e-114	Eggnog: 328.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_11	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1362	Eggnog: 7.05e-84	Eggnog: 247.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_12	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 1440052.EAKF1_ch0915	Eggnog: 8.61e-36	Eggnog: 120.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_13	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 1440052.EAKF1_ch0916	Eggnog: 6.16e-26	Eggnog: 95.9	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_14	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1360	Eggnog: 2.35e-64	Eggnog: 196.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_15	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 379329.Q08J53_9CAUD	Eggnog: 4.7e-191	Eggnog: 530.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_16	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 754331.AEME01000001_gene3274	Eggnog: 3.18e-167	Eggnog: 466.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_17	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1357	Eggnog: 3.85e-37	Eggnog: 124.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_18	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 1147146.K7P742_9CAUD	Eggnog: 4.57e-35	Eggnog: 119.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_19	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1355	Eggnog: 1.12e-43	Eggnog: 142.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_20	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3272	Eggnog: 3.4e-227	Eggnog: 625.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_21	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 754331.AEME01000001_gene3603	Eggnog: 1.2e-61	Eggnog: 198.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_22	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 10730.Q9XJH3_BP933	Eggnog: 4.05e-46	Eggnog: 149.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_23	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1351	Eggnog: 2.94e-44	Eggnog: 143.0	.	.	.	NumPredTMR:  2
+
+NODE_1_length_269420_cov_42.771695_24	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 10730.Q9XJH1_BP933	Eggnog: 1.96e-66	Eggnog: 201.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_25	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1349	Eggnog: 6.97e-152	Eggnog: 426.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_26	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 218493.SBG_0895	Eggnog: 1.09e-10	Eggnog: 60.1	.	.	.	NumPredTMR:  1
+
+NODE_1_length_269420_cov_42.771695_27	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 379329.Q08J63_9CAUD	Eggnog: 1.35e-145	Eggnog: 410.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_28	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 379329.Q08J64_9CAUD	Eggnog: 2.74e-37	Eggnog: 124.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_29	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 379329.Q08J65_9CAUD	Eggnog: 1.81e-42	Eggnog: 139.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_30	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 1458706.A0A096XER5_9CAUD	Eggnog: 1.26e-155	Eggnog: 436.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_31	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 194949.Q7Y2N1_9CAUD	Eggnog: 3.77e-11	Eggnog: 59.7	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_32	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 379329.Q08J67_9CAUD	Eggnog: 7.11e-72	Eggnog: 217.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_33	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 379329.Q08J68_9CAUD	Eggnog: 1.57e-36	Eggnog: 123.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_34	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 379329.Q08J69_9CAUD	Eggnog: 2.27e-292	Eggnog: 796.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_35	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3519	Eggnog: 1.15e-283	Eggnog: 774.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_36	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3520	Eggnog: 2.08e-262	Eggnog: 720.0	.	.	.	NumPredTMR:  4
+
+NODE_1_length_269420_cov_42.771695_37	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3521	Eggnog: 1.66e-144	Eggnog: 409.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_38	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3522	Eggnog: 6.41e-114	Eggnog: 326.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_39	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 10761.Q716G6_BPSFV	Eggnog: 1.4e-90	Eggnog: 273.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_40	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3524	Eggnog: 3.69e-153	Eggnog: 431.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_41	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3525	Eggnog: 0.0	Eggnog: 936.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_42	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_43	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 502347.ESCAB7627_1507	Eggnog: 8.01e-134	Eggnog: 380.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_44	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3528	Eggnog: 2.52e-300	Eggnog: 819.0	.	.	.	NumPredTMR:  12
+
+NODE_1_length_269420_cov_42.771695_45	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3529	Eggnog: 3.81e-223	Eggnog: 614.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_46	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 362663.ECP_2388	Eggnog: 0.0	Eggnog: 999.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_47	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3532	Eggnog: 1.31e-233	Eggnog: 642.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_48	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 1440052.EAKF1_ch3624c	Eggnog: 2.64e-39	Eggnog: 141.0	.	.	.	NumPredTMR:  2
+
+NODE_1_length_269420_cov_42.771695_49	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 362663.ECP_4590	Eggnog: 0.0	Eggnog: 879.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_50	CDS	Start: 269238	Stop: 269420	BlastVirStart: 10	BlastVirStop: 512	CR-CutOff: Strict	CR-Pass_bit: 900	CR-BestHitBit: 1014.99	CR-BestHitARO: emrY	CR-BestIdent:99.22	CR-ARO: 3000254	CR-ModelType: protein homolog model	CR-SNPinARO: n/a	CR-OtherSNP: n/a	CR-DrugClass: tetracycline antibiotic	CR-ResMech: antibiotic efflux	CR-AMRFam: major facilitator superfamily (MFS) antibiotic efflux pump	CR-PredDNA: 	CR-%LenRefSeq: 100.00	CR-ID: gnl|BL_ORD_ID|624|hsp_num:0	Eggnog: 155864.EDL933_3535	Eggnog: 0.0	Eggnog: 987.0	.	.	.	NumPredTMR:  14
+
+NODE_1_length_269420_cov_42.771695_51	CDS	Start: 269238	Stop: 269420	BlastVirStart: 34	BlastVirStop: 354	CR-CutOff: Strict	CR-Pass_bit: 600	CR-BestHitBit: 717.613	CR-BestHitARO: emrK	CR-BestIdent:100.0	CR-ARO: 3000206	CR-ModelType: protein homolog model	CR-SNPinARO: n/a	CR-OtherSNP: n/a	CR-DrugClass: tetracycline antibiotic	CR-ResMech: antibiotic efflux	CR-AMRFam: major facilitator superfamily (MFS) antibiotic efflux pump	CR-PredDNA: 	CR-%LenRefSeq: 100.00	CR-ID: gnl|BL_ORD_ID|2360|hsp_num:0	Eggnog: 316407.85675380	Eggnog: 2.57e-272	Eggnog: 746.0	.	.	.	NumPredTMR:  1
+
+NODE_1_length_269420_cov_42.771695_52	CDS	Start: 269238	Stop: 269420	BlastVirStart: 4	BlastVirStop: 204	CR-CutOff: Strict	CR-Pass_bit: 390	CR-BestHitBit: 417.157	CR-BestHitARO: evgA	CR-BestIdent:100.0	CR-ARO: 3000832	CR-ModelType: protein homolog model	CR-SNPinARO: n/a	CR-OtherSNP: n/a	CR-DrugClass: penam; macrolide antibiotic; tetracycline antibiotic; fluoroquinolone antibiotic	CR-ResMech: antibiotic efflux	CR-AMRFam: major facilitator superfamily (MFS) antibiotic efflux pump; resistance-nodulation-cell division (RND) antibiotic efflux pump	CR-PredDNA: 	CR-%LenRefSeq: 100.00	CR-ID: gnl|BL_ORD_ID|1292|hsp_num:0	Eggnog: 155864.EDL933_3537	Eggnog: 3.45e-142	Eggnog: 401.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_53	CDS	Start: 269238	Stop: 269420	BlastVirStart: 44	BlastVirStop: 1196	CR-CutOff: Strict	CR-Pass_bit: 2300	CR-BestHitBit: 2434.06	CR-BestHitARO: evgS	CR-BestIdent:97.83	CR-ARO: 3000833	CR-ModelType: protein homolog model	CR-SNPinARO: n/a	CR-OtherSNP: n/a	CR-DrugClass: penam; macrolide antibiotic; tetracycline antibiotic; fluoroquinolone antibiotic	CR-ResMech: antibiotic efflux	CR-AMRFam: major facilitator superfamily (MFS) antibiotic efflux pump; resistance-nodulation-cell division (RND) antibiotic efflux pump	CR-PredDNA: 	CR-%LenRefSeq: 100.00	CR-ID: gnl|BL_ORD_ID|3130|hsp_num:0	Eggnog: 316407.1799781	Eggnog: 0.0	Eggnog: 2334.0	SigP-Region: signal_peptide	SigP-RegionStart: 1	SigP-RegionEnd: 21	NumPredTMR:  1
+
+NODE_1_length_269420_cov_42.771695_54	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 198214.SF2438	Eggnog: 6.14e-199	Eggnog: 555.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_55	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 316407.1799782	Eggnog: 9.17e-37	Eggnog: 133.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_56	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3541	Eggnog: 4.72e-213	Eggnog: 590.0	.	.	.	NumPredTMR:  10
+
+NODE_1_length_269420_cov_42.771695_57	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3542	Eggnog: 0.0	Eggnog: 1109.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_58	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 198214.SF2441	Eggnog: 1.22e-312	Eggnog: 850.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_59	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3544	Eggnog: 5.82e-133	Eggnog: 379.0	SigP-Region: signal_peptide	SigP-RegionStart: 1	SigP-RegionEnd: 21	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_60	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	SigP-Region: lipoprotein_signal_peptide	SigP-RegionStart: 1	SigP-RegionEnd: 18	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_61	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3545	Eggnog: 4.76e-49	Eggnog: 156.0	.	.	.	NumPredTMR:  3
+
+NODE_1_length_269420_cov_42.771695_62	CDS	Start: 269238	Stop: 269420	BlastVirStart: 6	BlastVirStop: 305	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3546	Eggnog: 5.25e-231	Eggnog: 634.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_63	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3548	Eggnog: 2.26e-306	Eggnog: 834.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_64	CDS	Start: 269238	Stop: 269420	BlastVirStart: 342	BlastVirStop: 526	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3549	Eggnog: 0.0	Eggnog: 1089.0	.	.	.	NumPredTMR:  7
+
+NODE_1_length_269420_cov_42.771695_65	CDS	Start: 269238	Stop: 269420	BlastVirStart: 1	BlastVirStop: 245	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3551	Eggnog: 3.65e-208	Eggnog: 585.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_66	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3552	Eggnog: 0.0	Eggnog: 1628.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_67	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3553	Eggnog: 7.61e-246	Eggnog: 675.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_68	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3554	Eggnog: 3.06e-260	Eggnog: 713.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_69	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3555	Eggnog: 4.78e-289	Eggnog: 790.0	.	.	.	NumPredTMR:  8
+
+NODE_1_length_269420_cov_42.771695_70	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3556	Eggnog: 8.76e-67	Eggnog: 203.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_71	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3557	Eggnog: 3.31e-237	Eggnog: 651.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_72	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3558	Eggnog: 2.99e-289	Eggnog: 791.0	.	.	.	NumPredTMR:  10
+
+NODE_1_length_269420_cov_42.771695_73	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3559	Eggnog: 1.19e-55	Eggnog: 175.0	SigP-Region: signal_peptide	SigP-RegionStart: 1	SigP-RegionEnd: 21	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_74	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 199310.c2931	Eggnog: 9.11e-281	Eggnog: 769.0	.	.	.	NumPredTMR:  11
+
+NODE_1_length_269420_cov_42.771695_75	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3561	Eggnog: 2.94e-264	Eggnog: 726.0	.	.	.	NumPredTMR:  10
+
+NODE_1_length_269420_cov_42.771695_76	CDS	Start: 269238	Stop: 269420	BlastVirStart: 491	BlastVirStop: 726	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3562	Eggnog: 0.0	Eggnog: 1436.0	.	.	.	NumPredTMR:  10
+
+NODE_1_length_269420_cov_42.771695_77	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 199310.c2934	Eggnog: 1.1e-81	Eggnog: 241.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_78	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3564	Eggnog: 4.06e-85	Eggnog: 251.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_79	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3565	Eggnog: 3.82e-276	Eggnog: 755.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_80	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3566	Eggnog: 9.98e-129	Eggnog: 365.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_81	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3567	Eggnog: 0.0	Eggnog: 967.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_82	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3569	Eggnog: 4.41e-15	Eggnog: 72.8	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_83	CDS	Start: 269238	Stop: 269420	BlastVirStart: 1	BlastVirStop: 296	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 198214.SF2464	Eggnog: 3.77e-216	Eggnog: 597.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_84	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3572	Eggnog: 4.84e-231	Eggnog: 637.0	.	.	.	NumPredTMR:  10
+
+NODE_1_length_269420_cov_42.771695_85	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3573	Eggnog: 6.15e-46	Eggnog: 147.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_86	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3574	Eggnog: 0.0	Eggnog: 1308.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_87	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3575	Eggnog: 4.89e-192	Eggnog: 538.0	.	.	.	NumPredTMR:  1
+
+NODE_1_length_269420_cov_42.771695_88	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3576	Eggnog: 4.02e-188	Eggnog: 521.0	.	.	.	NumPredTMR:  6
+
+NODE_1_length_269420_cov_42.771695_89	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3577	Eggnog: 1.56e-227	Eggnog: 627.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_90	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 1028307.EAE_00365	Eggnog: 2.46e-51	Eggnog: 162.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_91	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3580	Eggnog: 0.0	Eggnog: 1091.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_92	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 198214.SF2472	Eggnog: 1.52e-112	Eggnog: 323.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_93	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3582	Eggnog: 7.49e-199	Eggnog: 551.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_94	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3583	Eggnog: 6.6e-72	Eggnog: 216.0	SigP-Region: signal_peptide	SigP-RegionStart: 1	SigP-RegionEnd: 19	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_95	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3584	Eggnog: 5.37e-218	Eggnog: 601.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_96	CDS	Start: 269238	Stop: 269420	BlastVirStart: 2	BlastVirStop: 311	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3585	Eggnog: 2.45e-268	Eggnog: 734.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_97	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3586	Eggnog: 5.28e-203	Eggnog: 562.0	.	.	.	NumPredTMR:  6
+
+NODE_1_length_269420_cov_42.771695_98	CDS	Start: 269238	Stop: 269420	BlastVirStart: 46	BlastVirStop: 215	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3587	Eggnog: 1.09e-188	Eggnog: 525.0	.	.	.	NumPredTMR:  6
+
+NODE_1_length_269420_cov_42.771695_99	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3588	Eggnog: 2.77e-249	Eggnog: 683.0	SigP-Region: signal_peptide	SigP-RegionStart: 1	SigP-RegionEnd: 25	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_100	CDS	Start: 269238	Stop: 269420	BlastVirStart: 4	BlastVirStop: 252	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3589	Eggnog: 1.33e-182	Eggnog: 508.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_101	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3590	Eggnog: 3.66e-191	Eggnog: 532.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_102	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3591	Eggnog: 1.64e-205	Eggnog: 569.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_103	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3592	Eggnog: 0.0	Eggnog: 925.0	.	.	.	NumPredTMR:  10
+
+NODE_1_length_269420_cov_42.771695_104	CDS	Start: 269238	Stop: 269420	BlastVirStart: 93	BlastVirStop: 241	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3593	Eggnog: 0.0	Eggnog: 879.0	SigP-Region: signal_peptide	SigP-RegionStart: 1	SigP-RegionEnd: 19	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_105	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3594	Eggnog: 5.83e-220	Eggnog: 606.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_106	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3595	Eggnog: 1.67e-138	Eggnog: 391.0	SigP-Region: lipoprotein_signal_peptide	SigP-RegionStart: 1	SigP-RegionEnd: 17	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_107	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 469008.B21_02295	Eggnog: 4.94e-106	Eggnog: 305.0	.	.	.	NumPredTMR:  4
+
+NODE_1_length_269420_cov_42.771695_108	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3597	Eggnog: 2.92e-101	Eggnog: 293.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_109	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3598	Eggnog: 1.51e-201	Eggnog: 558.0	SigP-Region: signal_peptide	SigP-RegionStart: 1	SigP-RegionEnd: 34	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_110	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3599	Eggnog: 9.44e-235	Eggnog: 643.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_111	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3600	Eggnog: 8.13e-264	Eggnog: 721.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_112	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3601	Eggnog: 2.86e-111	Eggnog: 320.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_113	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3602	Eggnog: 5.45e-151	Eggnog: 425.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_114	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3603	Eggnog: 3.19e-206	Eggnog: 571.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_115	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3604	Eggnog: 0.0	Eggnog: 896.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_116	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3605	Eggnog: 0.0	Eggnog: 902.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_117	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3606	Eggnog: 1.83e-278	Eggnog: 763.0	.	.	.	NumPredTMR:  11
+
+NODE_1_length_269420_cov_42.771695_118	CDS	Start: 269238	Stop: 269420	BlastVirStart: 12	BlastVirStop: 394	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3607	Eggnog: 3.84e-278	Eggnog: 761.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_119	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3608	Eggnog: 3.47e-206	Eggnog: 569.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_120	CDS	Start: 269238	Stop: 269420	BlastVirStart: 60	BlastVirStop: 429	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3609	Eggnog: 0.0	Eggnog: 882.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_121	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3610	Eggnog: 5.42e-64	Eggnog: 195.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_122	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 199310.c2982	Eggnog: 8.31e-71	Eggnog: 213.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_123	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3612	Eggnog: 2.74e-240	Eggnog: 660.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_124	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3613	Eggnog: 5.22e-170	Eggnog: 475.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_125	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3614	Eggnog: 1.29e-165	Eggnog: 463.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_126	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3615	Eggnog: 5.87e-112	Eggnog: 321.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_127	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3616	Eggnog: 5.2e-74	Eggnog: 221.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_128	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3617	Eggnog: 0.0	Eggnog: 1477.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_129	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3618	Eggnog: 6.35e-228	Eggnog: 627.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_130	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3619	Eggnog: 0.0	Eggnog: 1360.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_131	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3620	Eggnog: 3.99e-258	Eggnog: 706.0	SigP-Region: signal_peptide	SigP-RegionStart: 1	SigP-RegionEnd: 21	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_132	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3621	Eggnog: 2.66e-135	Eggnog: 383.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_133	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3622	Eggnog: 0.0	Eggnog: 1349.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_134	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3623	Eggnog: 0.0	Eggnog: 1092.0	.	.	.	NumPredTMR:  2
+
+NODE_1_length_269420_cov_42.771695_135	CDS	Start: 269238	Stop: 269420	BlastVirStart: 1	BlastVirStop: 1016	CR-CutOff: Strict	CR-Pass_bit: 1900	CR-BestHitBit: 2123.59	CR-BestHitARO: acrD	CR-BestIdent:99.9	CR-ARO: 3000491	CR-ModelType: protein homolog model	CR-SNPinARO: n/a	CR-OtherSNP: n/a	CR-DrugClass: aminoglycoside antibiotic	CR-ResMech: antibiotic efflux	CR-AMRFam: resistance-nodulation-cell division (RND) antibiotic efflux pump	CR-PredDNA: 	CR-%LenRefSeq: 100.00	CR-ID: gnl|BL_ORD_ID|4515|hsp_num:0	Eggnog: 155864.EDL933_3624	Eggnog: 0.0	Eggnog: 1974.0	.	.	.	NumPredTMR:  12
+
+NODE_1_length_269420_cov_42.771695_136	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3625	Eggnog: 9.03e-85	Eggnog: 249.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_137	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3626	Eggnog: 8.04e-279	Eggnog: 761.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_138	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3627	Eggnog: 3.21e-43	Eggnog: 140.0	.	.	.	NumPredTMR:  1
+
+NODE_1_length_269420_cov_42.771695_139	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3628	Eggnog: 2.14e-168	Eggnog: 470.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_140	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3629	Eggnog: 0.0	Eggnog: 1349.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_141	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3630	Eggnog: 2.76e-212	Eggnog: 585.0	.	.	.	NumPredTMR:  1
+
+NODE_1_length_269420_cov_42.771695_142	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 1440052.EAKF1_ch3531	Eggnog: 5.68e-171	Eggnog: 477.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_143	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_144	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3632	Eggnog: 3.35e-244	Eggnog: 671.0	SigP-Region: lipoprotein_signal_peptide	SigP-RegionStart: 1	SigP-RegionEnd: 24	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_145	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3633	Eggnog: 3.9e-210	Eggnog: 580.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_146	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3634	Eggnog: 3.93e-132	Eggnog: 375.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_147	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 1440052.EAKF1_ch3527c	Eggnog: 2.06e-115	Eggnog: 330.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_148	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3636	Eggnog: 5.55e-153	Eggnog: 429.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_149	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3637	Eggnog: 0.0	Eggnog: 1246.0	.	.	.	NumPredTMR:  16
+
+NODE_1_length_269420_cov_42.771695_150	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3638	Eggnog: 2.95e-212	Eggnog: 588.0	.	.	.	NumPredTMR:  8
+
+NODE_1_length_269420_cov_42.771695_151	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3639	Eggnog: 0.0	Eggnog: 910.0	.	.	.	NumPredTMR:  14
+
+NODE_1_length_269420_cov_42.771695_152	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3640	Eggnog: 1.01e-140	Eggnog: 399.0	.	.	.	NumPredTMR:  7
+
+NODE_1_length_269420_cov_42.771695_153	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3641	Eggnog: 0.0	Eggnog: 972.0	.	.	.	NumPredTMR:  14
+
+NODE_1_length_269420_cov_42.771695_154	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3642	Eggnog: 0.0	Eggnog: 1162.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_155	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3643	Eggnog: 1.95e-114	Eggnog: 329.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_156	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3644	Eggnog: 4.53e-189	Eggnog: 524.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_157	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3645	Eggnog: 2.34e-96	Eggnog: 280.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_158	CDS	Start: 269238	Stop: 269420	BlastVirStart: 328	BlastVirStop: 665	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3646	Eggnog: 0.0	Eggnog: 1328.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_159	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3647	Eggnog: 1.1e-195	Eggnog: 543.0	.	.	.	NumPredTMR:  6
+
+NODE_1_length_269420_cov_42.771695_160	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3648	Eggnog: 6.75e-228	Eggnog: 630.0	.	.	.	NumPredTMR:  10
+
+NODE_1_length_269420_cov_42.771695_161	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3649	Eggnog: 0.0	Eggnog: 934.0	SigP-Region: signal_peptide	SigP-RegionStart: 1	SigP-RegionEnd: 27	NumPredTMR:  2
+
+NODE_1_length_269420_cov_42.771695_162	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3650	Eggnog: 1.75e-78	Eggnog: 233.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_163	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3651	Eggnog: 4.68e-180	Eggnog: 501.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_164	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 316407.1805557	Eggnog: 2.87e-288	Eggnog: 790.0	.	.	.	NumPredTMR:  14
+
+NODE_1_length_269420_cov_42.771695_165	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 1440052.EAKF1_ch3521	Eggnog: 2.32e-142	Eggnog: 402.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_166	CDS	Start: 269238	Stop: 269420	BlastVirStart: 7	BlastVirStop: 336	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3654	Eggnog: 1.33e-255	Eggnog: 700.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_167	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3655	Eggnog: 4.71e-153	Eggnog: 429.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_168	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3657	Eggnog: 0.0	Eggnog: 1368.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_169	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3658	Eggnog: 0.0	Eggnog: 1018.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_170	CDS	Start: 269238	Stop: 269420	BlastVirStart: 500	BlastVirStop: 735	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3659	Eggnog: 0.0	Eggnog: 1471.0	.	.	.	NumPredTMR:  10
+
+NODE_1_length_269420_cov_42.771695_171	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 1440052.EAKF1_ch3511c	Eggnog: 6.91e-33	Eggnog: 114.0	.	.	.	NumPredTMR:  1
+
+NODE_1_length_269420_cov_42.771695_172	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3662	Eggnog: 3.93e-84	Eggnog: 252.0	SigP-Region: lipoprotein_signal_peptide	SigP-RegionStart: 1	SigP-RegionEnd: 20	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_173	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3663	Eggnog: 2.44e-91	Eggnog: 271.0	SigP-Region: signal_peptide	SigP-RegionStart: 1	SigP-RegionEnd: 19	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_174	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3664	Eggnog: 0.0	Eggnog: 1068.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_175	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 1440052.EAKF1_ch3495c	Eggnog: 0.0	Eggnog: 924.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_176	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3666	Eggnog: 3.56e-275	Eggnog: 759.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_177	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3667	Eggnog: 5.25e-51	Eggnog: 160.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_178	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3668	Eggnog: 0.0	Eggnog: 958.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_179	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3669	Eggnog: 1.97e-258	Eggnog: 711.0	SigP-Region: lipoprotein_signal_peptide	SigP-RegionStart: 1	SigP-RegionEnd: 19	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_180	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3670	Eggnog: 1.06e-137	Eggnog: 390.0	.	.	.	NumPredTMR:  1
+
+NODE_1_length_269420_cov_42.771695_181	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3671	Eggnog: 5.63e-313	Eggnog: 852.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_182	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3672	Eggnog: 5.07e-260	Eggnog: 713.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_183	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3673	Eggnog: 2.29e-181	Eggnog: 511.0	.	.	.	NumPredTMR:  1
+
+NODE_1_length_269420_cov_42.771695_184	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3674	Eggnog: 2.07e-281	Eggnog: 768.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_185	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3675	Eggnog: 6.59e-99	Eggnog: 287.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_186	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3676	Eggnog: 4.98e-218	Eggnog: 600.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_187	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3677	Eggnog: 5.81e-182	Eggnog: 508.0	.	.	.	NumPredTMR:  8
+
+NODE_1_length_269420_cov_42.771695_188	CDS	Start: 269238	Stop: 269420	BlastVirStart: 67	BlastVirStop: 198	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3678	Eggnog: 3.61e-160	Eggnog: 447.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_189	CDS	Start: 269238	Stop: 269420	BlastVirStart: 54	BlastVirStop: 296	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3679	Eggnog: 0.0	Eggnog: 1615.0	SigP-Region: signal_peptide	SigP-RegionStart: 1	SigP-RegionEnd: 39	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_190	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3680	Eggnog: 0.0	Eggnog: 1584.0	.	.	.	NumPredTMR:  1
+
+NODE_1_length_269420_cov_42.771695_191	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3681	Eggnog: 0.0	Eggnog: 3274.0	SigP-Region: lipoprotein_signal_peptide	SigP-RegionStart: 1	SigP-RegionEnd: 17	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_192	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3682	Eggnog: 1.94e-209	Eggnog: 578.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_193	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3684	Eggnog: 2.22e-183	Eggnog: 510.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_194	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3685	Eggnog: 8.76e-316	Eggnog: 859.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_195	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3686	Eggnog: 1.36e-44	Eggnog: 144.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_196	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3687	Eggnog: 1.95e-78	Eggnog: 233.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_197	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3688	Eggnog: 0.0	Eggnog: 1160.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_198	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3689	Eggnog: 4.53e-115	Eggnog: 330.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_199	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 1440052.EAKF1_ch3471	Eggnog: 1.58e-73	Eggnog: 220.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_200	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3692	Eggnog: 4.86e-87	Eggnog: 256.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_201	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 1440052.EAKF1_ch3469	Eggnog: 1.33e-294	Eggnog: 803.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_202	CDS	Start: 269238	Stop: 269420	BlastVirStart: 1	BlastVirStop: 132	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3694	Eggnog: 3e-111	Eggnog: 320.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_203	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3695	Eggnog: 1.14e-174	Eggnog: 487.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_204	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3696	Eggnog: 1.84e-191	Eggnog: 531.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_205	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3697	Eggnog: 3.62e-211	Eggnog: 582.0	.	.	.	NumPredTMR:  1
+
+NODE_1_length_269420_cov_42.771695_206	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3698	Eggnog: 1.17e-315	Eggnog: 858.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_207	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3699	Eggnog: 5.75e-265	Eggnog: 726.0	.	.	.	NumPredTMR:  12
+
+NODE_1_length_269420_cov_42.771695_208	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3700	Eggnog: 1.85e-208	Eggnog: 577.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_209	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3701	Eggnog: 0.0	Eggnog: 966.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_210	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3702	Eggnog: 5.97e-125	Eggnog: 355.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_211	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 198214.SF2587	Eggnog: 2.62e-76	Eggnog: 227.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_212	CDS	Start: 269238	Stop: 269420	BlastVirStart: 6	BlastVirStop: 238	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3704	Eggnog: 5.93e-194	Eggnog: 538.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_213	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3705	Eggnog: 1.54e-291	Eggnog: 795.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_214	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3706	Eggnog: 5.46e-92	Eggnog: 269.0	.	.	.	NumPredTMR:  4
+
+NODE_1_length_269420_cov_42.771695_215	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3707	Eggnog: 2.91e-229	Eggnog: 629.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_216	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3708	Eggnog: 7.27e-207	Eggnog: 571.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_217	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3709	Eggnog: 1.15e-39	Eggnog: 131.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_218	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3710	Eggnog: 2.5e-201	Eggnog: 561.0	.	.	.	NumPredTMR:  10
+
+NODE_1_length_269420_cov_42.771695_219	CDS	Start: 269238	Stop: 269420	BlastVirStart: 9	BlastVirStop: 227	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3711	Eggnog: 0.0	Eggnog: 966.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_220	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3712	Eggnog: 7.41e-228	Eggnog: 628.0	SigP-Region: signal_peptide	SigP-RegionStart: 1	SigP-RegionEnd: 26	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_221	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3713	Eggnog: 0.0	Eggnog: 2270.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_222	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3714	Eggnog: 3.04e-301	Eggnog: 820.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_223	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3715	Eggnog: 4.07e-307	Eggnog: 836.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_224	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3717	Eggnog: 3.14e-298	Eggnog: 812.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_225	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 1197719.A464_2673	Eggnog: 4.6e-73	Eggnog: 219.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_226	CDS	Start: 269238	Stop: 269420	BlastVirStart: 6	BlastVirStop: 436	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3719	Eggnog: 9.36e-317	Eggnog: 863.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_227	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 198214.SF2602	Eggnog: 2.22e-168	Eggnog: 470.0	SigP-Region: lipoprotein_signal_peptide	SigP-RegionStart: 1	SigP-RegionEnd: 25	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_228	CDS	Start: 269238	Stop: 269420	BlastVirStart: 232	BlastVirStop: 454	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3721	Eggnog: 1.85e-308	Eggnog: 844.0	.	.	.	NumPredTMR:  2
+
+NODE_1_length_269420_cov_42.771695_229	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3722	Eggnog: 0.0	Eggnog: 2595.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_230	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3723	Eggnog: 0.0	Eggnog: 1025.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_231	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3724	Eggnog: 7.61e-121	Eggnog: 344.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_232	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3725	Eggnog: 2.25e-155	Eggnog: 435.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_233	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3726	Eggnog: 5.24e-194	Eggnog: 539.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_234	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3727	Eggnog: 4.68e-63	Eggnog: 192.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_235	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3728	Eggnog: 1.4e-85	Eggnog: 252.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_236	CDS	Start: 269238	Stop: 269420	BlastVirStart: 6	BlastVirStop: 238	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 1440052.EAKF1_ch3438	Eggnog: 3.02e-169	Eggnog: 473.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_237	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3730	Eggnog: 7.46e-174	Eggnog: 484.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_238	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3731	Eggnog: 3.63e-215	Eggnog: 594.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_239	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3732	Eggnog: 6.64e-160	Eggnog: 448.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_240	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3733	Eggnog: 4.74e-243	Eggnog: 666.0	.	.	.	NumPredTMR:  2
+
+NODE_1_length_269420_cov_42.771695_241	CDS	Start: 269238	Stop: 269420	BlastVirStart: 6	BlastVirStop: 296	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3734	Eggnog: 0.0	Eggnog: 1182.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_242	CDS	Start: 269238	Stop: 269420	BlastVirStart: 1	BlastVirStop: 139	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3735	Eggnog: 9e-107	Eggnog: 308.0	.	.	.	NumPredTMR:  2
+
+NODE_1_length_269420_cov_42.771695_243	CDS	Start: 269238	Stop: 269420	BlastVirStart: 72	BlastVirStop: 317	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3736	Eggnog: 4.12e-225	Eggnog: 620.0	SigP-Region: signal_peptide	SigP-RegionStart: 1	SigP-RegionEnd: 23	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_244	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3737	Eggnog: 3.79e-134	Eggnog: 382.0	.	.	.	NumPredTMR:  1
+
+NODE_1_length_269420_cov_42.771695_245	CDS	Start: 269238	Stop: 269420	BlastVirStart: 1	BlastVirStop: 190	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 1440052.EAKF1_ch3429	Eggnog: 2.87e-130	Eggnog: 370.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_246	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3739	Eggnog: 0.0	Eggnog: 1109.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_247	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3740	Eggnog: 7.19e-178	Eggnog: 495.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_248	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3741	Eggnog: 5.11e-301	Eggnog: 823.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_249	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3742	Eggnog: 3.13e-211	Eggnog: 584.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_250	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3743	Eggnog: 2.01e-132	Eggnog: 376.0	.	.	.	NumPredTMR:  6
+
+NODE_1_length_269420_cov_42.771695_251	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3744	Eggnog: 6.16e-85	Eggnog: 250.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_252	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3745	Eggnog: 4.53e-173	Eggnog: 481.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_253	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3746	Eggnog: 1.28e-253	Eggnog: 695.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_254	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3747	Eggnog: 3.05e-102	Eggnog: 295.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_255	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3748	Eggnog: 4.85e-165	Eggnog: 461.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_256	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3749	Eggnog: 0.0	Eggnog: 1743.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_257	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3750	Eggnog: 0.0	Eggnog: 909.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_258	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_3751	Eggnog: 4.41e-63	Eggnog: 192.0	.	.	.	NumPredTMR:  0
+
+NODE_1_length_269420_cov_42.771695_259	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 198214.SF2649	Eggnog: 2.66e-306	Eggnog: 835.0	.	.	.	NumPredTMR:  12
+
+NODE_1_length_269420_cov_42.771695_260	CDS	Start: 269238	Stop: 269420	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_1	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0885	Eggnog: 6.79e-114	Eggnog: 327.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_2	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0886	Eggnog: 0.0	Eggnog: 2283.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_3	CDS	Start: 244156	Stop: 244398	BlastVirStart: 30	BlastVirStop: 199	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0887	Eggnog: 8.55e-145	Eggnog: 407.0	SigP-Region: signal_peptide	SigP-RegionStart: 1	SigP-RegionEnd: 24	NumPredTMR:  8
+
+NODE_2_length_244525_cov_42.796905_4	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0888	Eggnog: 2.75e-128	Eggnog: 385.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_5	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0889	Eggnog: 3.25e-60	Eggnog: 185.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_6	CDS	Start: 244156	Stop: 244398	BlastVirStart: 1	BlastVirStop: 326	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0890	Eggnog: 6.75e-244	Eggnog: 669.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_7	CDS	Start: 244156	Stop: 244398	BlastVirStart: 1	BlastVirStop: 330	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0891	Eggnog: 3.91e-245	Eggnog: 672.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_8	CDS	Start: 244156	Stop: 244398	BlastVirStart: 1	BlastVirStop: 293	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0892	Eggnog: 4.05e-208	Eggnog: 575.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_9	CDS	Start: 244156	Stop: 244398	BlastVirStart: 1	BlastVirStop: 232	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 1440052.EAKF1_ch3958	Eggnog: 7.39e-149	Eggnog: 420.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_10	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0894	Eggnog: 2.59e-119	Eggnog: 340.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_11	CDS	Start: 244156	Stop: 244398	BlastVirStart: 12	BlastVirStop: 421	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 469008.B21_00758	Eggnog: 0.0	Eggnog: 874.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_12	CDS	Start: 244156	Stop: 244398	BlastVirStart: 8	BlastVirStop: 310	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0896	Eggnog: 5.63e-253	Eggnog: 693.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_13	CDS	Start: 244156	Stop: 244398	BlastVirStart: 38	BlastVirStop: 380	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0897	Eggnog: 2.22e-276	Eggnog: 756.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_14	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0898	Eggnog: 1.91e-185	Eggnog: 514.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_15	CDS	Start: 244156	Stop: 244398	BlastVirStart: 3	BlastVirStop: 195	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0899	Eggnog: 6.14e-160	Eggnog: 448.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_16	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0900	Eggnog: 0.0	Eggnog: 1297.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_17	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0901	Eggnog: 1.41e-208	Eggnog: 577.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_18	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0902	Eggnog: 3.62e-245	Eggnog: 672.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_19	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0903	Eggnog: 2.25e-119	Eggnog: 341.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_20	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0904	Eggnog: 2.67e-109	Eggnog: 315.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_21	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0905	Eggnog: 1.52e-50	Eggnog: 160.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_22	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 199310.c0867	Eggnog: 2.74e-108	Eggnog: 311.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_23	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0907	Eggnog: 8.51e-151	Eggnog: 426.0	.	.	.	NumPredTMR:  7
+
+NODE_2_length_244525_cov_42.796905_24	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0908	Eggnog: 1.28e-157	Eggnog: 443.0	.	.	.	NumPredTMR:  7
+
+NODE_2_length_244525_cov_42.796905_25	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0909	Eggnog: 1.8e-219	Eggnog: 606.0	.	.	.	NumPredTMR:  10
+
+NODE_2_length_244525_cov_42.796905_26	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0910	Eggnog: 1.95e-312	Eggnog: 849.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_27	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0911	Eggnog: 6.2e-192	Eggnog: 531.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_28	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0912	Eggnog: 6.46e-89	Eggnog: 261.0	.	.	.	NumPredTMR:  4
+
+NODE_2_length_244525_cov_42.796905_29	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 1440052.EAKF1_ch0678	Eggnog: 2.4e-256	Eggnog: 704.0	.	.	.	NumPredTMR:  6
+
+NODE_2_length_244525_cov_42.796905_30	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0914	Eggnog: 5.05e-258	Eggnog: 709.0	.	.	.	NumPredTMR:  6
+
+NODE_2_length_244525_cov_42.796905_31	CDS	Start: 244156	Stop: 244398	BlastVirStart: 328	BlastVirStop: 552	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0915	Eggnog: 0.0	Eggnog: 1159.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_32	CDS	Start: 244156	Stop: 244398	BlastVirStart: 4	BlastVirStop: 276	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0916	Eggnog: 4.07e-195	Eggnog: 546.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_33	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0917	Eggnog: 6.15e-159	Eggnog: 445.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_34	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0918	Eggnog: 7.94e-306	Eggnog: 836.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_35	CDS	Start: 244156	Stop: 244398	BlastVirStart: 1	BlastVirStop: 670	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0920	Eggnog: 0.0	Eggnog: 1321.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_36	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0922	Eggnog: 0.0	Eggnog: 1424.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_37	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0923	Eggnog: 1.77e-236	Eggnog: 649.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_38	CDS	Start: 244156	Stop: 244398	BlastVirStart: 6	BlastVirStop: 321	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0924	Eggnog: 2.76e-272	Eggnog: 743.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_39	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0925	Eggnog: 1.93e-35	Eggnog: 122.0	SigP-Region: signal_peptide	SigP-RegionStart: 1	SigP-RegionEnd: 22	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_40	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0926	Eggnog: 5.22e-61	Eggnog: 187.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_41	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0927	Eggnog: 1.19e-165	Eggnog: 462.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_42	CDS	Start: 244156	Stop: 244398	BlastVirStart: 518	BlastVirStop: 752	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0928	Eggnog: 0.0	Eggnog: 1521.0	SigP-Region: signal_peptide	SigP-RegionStart: 1	SigP-RegionEnd: 33	NumPredTMR:  22
+
+NODE_2_length_244525_cov_42.796905_43	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0929	Eggnog: 4.56e-52	Eggnog: 164.0	SigP-Region: signal_peptide	SigP-RegionStart: 1	SigP-RegionEnd: 22	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_44	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0930	Eggnog: 7.17e-230	Eggnog: 632.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_45	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0931	Eggnog: 0.0	Eggnog: 1414.0	SigP-Region: signal_peptide	SigP-RegionStart: 1	SigP-RegionEnd: 18	NumPredTMR:  11
+
+NODE_2_length_244525_cov_42.796905_46	CDS	Start: 244156	Stop: 244398	BlastVirStart: 1	BlastVirStop: 227	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0932	Eggnog: 1.19e-169	Eggnog: 474.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_47	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0933	Eggnog: 1.01e-146	Eggnog: 414.0	.	.	.	NumPredTMR:  5
+
+NODE_2_length_244525_cov_42.796905_48	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0934	Eggnog: 5.03e-175	Eggnog: 488.0	SigP-Region: signal_peptide	SigP-RegionStart: 1	SigP-RegionEnd: 22	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_49	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0935	Eggnog: 9.21e-113	Eggnog: 324.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_50	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 199310.c0899	Eggnog: 2.1e-196	Eggnog: 546.0	.	.	.	NumPredTMR:  10
+
+NODE_2_length_244525_cov_42.796905_51	CDS	Start: 244156	Stop: 244398	BlastVirStart: 4	BlastVirStop: 171	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0937	Eggnog: 2.08e-120	Eggnog: 343.0	SigP-Region: signal_peptide	SigP-RegionStart: 1	SigP-RegionEnd: 23	NumPredTMR:  8
+
+NODE_2_length_244525_cov_42.796905_52	CDS	Start: 244156	Stop: 244398	BlastVirStart: 24	BlastVirStop: 488	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0938	Eggnog: 0.0	Eggnog: 1063.0	.	.	.	NumPredTMR:  5
+
+NODE_2_length_244525_cov_42.796905_53	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0939	Eggnog: 4.54e-24	Eggnog: 90.5	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_54	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0940	Eggnog: 3.7e-104	Eggnog: 301.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_55	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0941	Eggnog: 3.89e-264	Eggnog: 724.0	.	.	.	NumPredTMR:  13
+
+NODE_2_length_244525_cov_42.796905_56	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 199310.c0905	Eggnog: 6.59e-225	Eggnog: 619.0	SigP-Region: signal_peptide	SigP-RegionStart: 1	SigP-RegionEnd: 24	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_57	CDS	Start: 244156	Stop: 244398	BlastVirStart: 319	BlastVirStop: 523	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0943	Eggnog: 0.0	Eggnog: 1039.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_58	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0944	Eggnog: 0.0	Eggnog: 884.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_59	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0945	Eggnog: 1.15e-196	Eggnog: 545.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_60	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0946	Eggnog: 0.0	Eggnog: 1201.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_61	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0947	Eggnog: 5.44e-136	Eggnog: 384.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_62	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0948	Eggnog: 3.27e-226	Eggnog: 622.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_63	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0949	Eggnog: 1.14e-148	Eggnog: 419.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_64	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0950	Eggnog: 2.4e-178	Eggnog: 496.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_65	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0951	Eggnog: 5.27e-300	Eggnog: 818.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_66	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0952	Eggnog: 4.91e-74	Eggnog: 222.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_67	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0953	Eggnog: 5.74e-142	Eggnog: 400.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_68	CDS	Start: 244156	Stop: 244398	BlastVirStart: 310	BlastVirStop: 565	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0954	Eggnog: 0.0	Eggnog: 1194.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_69	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0955	Eggnog: 0.0	Eggnog: 1021.0	SigP-Region: lipoprotein_signal_peptide	SigP-RegionStart: 1	SigP-RegionEnd: 22	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_70	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0956	Eggnog: 1.08e-214	Eggnog: 593.0	.	.	.	NumPredTMR:  6
+
+NODE_2_length_244525_cov_42.796905_71	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0957	Eggnog: 3.17e-195	Eggnog: 543.0	.	.	.	NumPredTMR:  6
+
+NODE_2_length_244525_cov_42.796905_72	CDS	Start: 244156	Stop: 244398	BlastVirStart: 541	BlastVirStop: 769	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0958	Eggnog: 0.0	Eggnog: 1541.0	.	.	.	NumPredTMR:  2
+
+NODE_2_length_244525_cov_42.796905_73	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 316407.4062411	Eggnog: 2.31e-312	Eggnog: 852.0	SigP-Region: lipoprotein_signal_peptide	SigP-RegionStart: 1	SigP-RegionEnd: 23	NumPredTMR:  2
+
+NODE_2_length_244525_cov_42.796905_74	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0960	Eggnog: 4e-68	Eggnog: 206.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_75	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0961	Eggnog: 9.8e-87	Eggnog: 255.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_76	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0962	Eggnog: 0.0	Eggnog: 897.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_77	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0963	Eggnog: 1.77e-84	Eggnog: 249.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_78	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0964	Eggnog: 6.65e-285	Eggnog: 776.0	SigP-Region: signal_peptide	SigP-RegionStart: 1	SigP-RegionEnd: 20	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_79	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0965	Eggnog: 2.44e-153	Eggnog: 430.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_80	CDS	Start: 244156	Stop: 244398	BlastVirStart: 35	BlastVirStop: 280	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0966	Eggnog: 1.66e-289	Eggnog: 790.0	SigP-Region: signal_peptide	SigP-RegionStart: 1	SigP-RegionEnd: 27	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_81	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0967	Eggnog: 1.25e-186	Eggnog: 518.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_82	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0968	Eggnog: 3.77e-143	Eggnog: 403.0	.	.	.	NumPredTMR:  5
+
+NODE_2_length_244525_cov_42.796905_83	CDS	Start: 244156	Stop: 244398	BlastVirStart: 30	BlastVirStop: 262	CR-CutOff: Strict	CR-Pass_bit: 700	CR-BestHitBit: 786.949	CR-BestHitARO: Escherichia coli mdfA	CR-BestIdent:97.07	CR-ARO: 3001328	CR-ModelType: protein homolog model	CR-SNPinARO: n/a	CR-OtherSNP: n/a	CR-DrugClass: tetracycline antibiotic; disinfecting agents and antiseptics	CR-ResMech: antibiotic efflux	CR-AMRFam: major facilitator superfamily (MFS) antibiotic efflux pump	CR-PredDNA: 	CR-%LenRefSeq: 100.00	CR-ID: gnl|BL_ORD_ID|3896|hsp_num:0	Eggnog: 155864.EDL933_0969	Eggnog: 3.62e-286	Eggnog: 783.0	.	.	.	NumPredTMR:  12
+
+NODE_2_length_244525_cov_42.796905_84	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0970	Eggnog: 1.31e-56	Eggnog: 176.0	SigP-Region: signal_peptide	SigP-RegionStart: 1	SigP-RegionEnd: 20	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_85	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0971	Eggnog: 3.86e-195	Eggnog: 541.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_86	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0972	Eggnog: 2.7e-277	Eggnog: 759.0	.	.	.	NumPredTMR:  12
+
+NODE_2_length_244525_cov_42.796905_87	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0973	Eggnog: 3.69e-122	Eggnog: 348.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_88	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0974	Eggnog: 0.0	Eggnog: 1070.0	.	.	.	NumPredTMR:  12
+
+NODE_2_length_244525_cov_42.796905_89	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0975	Eggnog: 1.41e-89	Eggnog: 262.0	.	.	.	NumPredTMR:  4
+
+NODE_2_length_244525_cov_42.796905_90	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0976	Eggnog: 6.74e-58	Eggnog: 179.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_91	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0977	Eggnog: 3.16e-54	Eggnog: 170.0	.	.	.	NumPredTMR:  2
+
+NODE_2_length_244525_cov_42.796905_92	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0978	Eggnog: 1.4e-177	Eggnog: 494.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_93	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0979	Eggnog: 9.22e-213	Eggnog: 588.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_94	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0980	Eggnog: 5.23e-110	Eggnog: 316.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_95	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0983	Eggnog: 5.84e-274	Eggnog: 748.0	SigP-Region: signal_peptide	SigP-RegionStart: 1	SigP-RegionEnd: 26	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_96	CDS	Start: 244156	Stop: 244398	BlastVirStart: 17	BlastVirStop: 356	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0984	Eggnog: 8.65e-275	Eggnog: 751.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_97	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0985	Eggnog: 3.97e-227	Eggnog: 625.0	.	.	.	NumPredTMR:  6
+
+NODE_2_length_244525_cov_42.796905_98	CDS	Start: 244156	Stop: 244398	BlastVirStart: 54	BlastVirStop: 256	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0986	Eggnog: 3.13e-190	Eggnog: 529.0	.	.	.	NumPredTMR:  6
+
+NODE_2_length_244525_cov_42.796905_99	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0987	Eggnog: 1.37e-107	Eggnog: 310.0	.	.	.	NumPredTMR:  4
+
+NODE_2_length_244525_cov_42.796905_100	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0988	Eggnog: 1.39e-279	Eggnog: 763.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_101	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0989	Eggnog: 0.0	Eggnog: 874.0	.	.	.	NumPredTMR:  10
+
+NODE_2_length_244525_cov_42.796905_102	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0990	Eggnog: 6.99e-72	Eggnog: 216.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_103	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0991	Eggnog: 0.0	Eggnog: 1049.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_104	CDS	Start: 244156	Stop: 244398	BlastVirStart: 3	BlastVirStop: 200	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0992	Eggnog: 1.39e-174	Eggnog: 486.0	SigP-Region: signal_peptide	SigP-RegionStart: 1	SigP-RegionEnd: 19	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_105	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_106	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0994	Eggnog: 1.25e-137	Eggnog: 391.0	.	.	.	NumPredTMR:  5
+
+NODE_2_length_244525_cov_42.796905_107	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0995	Eggnog: 8.62e-162	Eggnog: 454.0	.	.	.	NumPredTMR:  5
+
+NODE_2_length_244525_cov_42.796905_108	CDS	Start: 244156	Stop: 244398	BlastVirStart: 32	BlastVirStop: 188	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0996	Eggnog: 1.34e-172	Eggnog: 481.0	SigP-Region: signal_peptide	SigP-RegionStart: 1	SigP-RegionEnd: 19	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_109	CDS	Start: 244156	Stop: 244398	BlastVirStart: 8	BlastVirStop: 221	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0997	Eggnog: 2.05e-171	Eggnog: 478.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_110	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_0998	Eggnog: 2.53e-121	Eggnog: 346.0	SigP-Region: lipoprotein_signal_peptide	SigP-RegionStart: 1	SigP-RegionEnd: 18	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_111	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 198214.SF0820	Eggnog: 0.0	Eggnog: 996.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_112	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1000	Eggnog: 2.95e-69	Eggnog: 209.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_113	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1001	Eggnog: 1.21e-205	Eggnog: 568.0	SigP-Region: lipoprotein_signal_peptide	SigP-RegionStart: 1	SigP-RegionEnd: 16	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_114	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1002	Eggnog: 9.82e-260	Eggnog: 711.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_115	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1003	Eggnog: 0.0	Eggnog: 967.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_116	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1004	Eggnog: 4.55e-241	Eggnog: 662.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_117	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1005	Eggnog: 0.0	Eggnog: 1130.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_118	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1006	Eggnog: 3.89e-241	Eggnog: 661.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_119	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1007	Eggnog: 0.0	Eggnog: 1120.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_120	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1008	Eggnog: 5.2e-198	Eggnog: 550.0	.	.	.	NumPredTMR:  10
+
+NODE_2_length_244525_cov_42.796905_121	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1009	Eggnog: 5.64e-159	Eggnog: 446.0	.	.	.	NumPredTMR:  6
+
+NODE_2_length_244525_cov_42.796905_122	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1010	Eggnog: 0.0	Eggnog: 1103.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_123	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1011	Eggnog: 1.04e-230	Eggnog: 635.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_124	CDS	Start: 244156	Stop: 244398	BlastVirStart: 53	BlastVirStop: 362	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1012	Eggnog: 4.6e-251	Eggnog: 691.0	.	.	.	NumPredTMR:  1
+
+NODE_2_length_244525_cov_42.796905_125	CDS	Start: 244156	Stop: 244398	BlastVirStart: 4	BlastVirStop: 210	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1013	Eggnog: 0.0	Eggnog: 1236.0	.	.	.	NumPredTMR:  4
+
+NODE_2_length_244525_cov_42.796905_126	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 1440052.EAKF1_ch0591	Eggnog: 5.36e-50	Eggnog: 158.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_127	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1015	Eggnog: 1.71e-72	Eggnog: 217.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_128	CDS	Start: 244156	Stop: 244398	BlastVirStart: 2	BlastVirStop: 742	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1016	Eggnog: 0.0	Eggnog: 1468.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_129	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 1005994.GTGU_01094	Eggnog: 8.75e-46	Eggnog: 147.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_130	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1148	Eggnog: 1.58e-180	Eggnog: 501.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_131	CDS	Start: 244156	Stop: 244398	BlastVirStart: 90	BlastVirStop: 568	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1149	Eggnog: 0.0	Eggnog: 1073.0	.	.	.	NumPredTMR:  6
+
+NODE_2_length_244525_cov_42.796905_132	CDS	Start: 244156	Stop: 244398	BlastVirStart: 69	BlastVirStop: 586	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1150	Eggnog: 0.0	Eggnog: 1132.0	.	.	.	NumPredTMR:  6
+
+NODE_2_length_244525_cov_42.796905_133	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1151	Eggnog: 1.84e-234	Eggnog: 644.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_134	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 1440052.EAKF1_ch0581c	Eggnog: 7.34e-113	Eggnog: 324.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_135	CDS	Start: 244156	Stop: 244398	BlastVirStart: 893	BlastVirStop: 1203	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1154	Eggnog: 0.0	Eggnog: 2240.0	.	.	.	NumPredTMR:  4
+
+NODE_2_length_244525_cov_42.796905_136	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1155	Eggnog: 5.76e-145	Eggnog: 408.0	SigP-Region: signal_peptide	SigP-RegionStart: 1	SigP-RegionEnd: 21	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_137	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 1440052.EAKF1_ch0578c	Eggnog: 0.0	Eggnog: 885.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_138	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1157	Eggnog: 1.13e-306	Eggnog: 836.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_139	CDS	Start: 244156	Stop: 244398	BlastVirStart: 54	BlastVirStop: 310	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1158	Eggnog: 0.0	Eggnog: 1672.0	SigP-Region: signal_peptide	SigP-RegionStart: 1	SigP-RegionEnd: 45	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_140	CDS	Start: 244156	Stop: 244398	BlastVirStart: 56	BlastVirStop: 155	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1159	Eggnog: 9.61e-163	Eggnog: 453.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_141	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1160	Eggnog: 4.16e-198	Eggnog: 550.0	.	.	.	NumPredTMR:  8
+
+NODE_2_length_244525_cov_42.796905_142	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1161	Eggnog: 1.93e-150	Eggnog: 422.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_143	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 316407.4062472	Eggnog: 1.62e-259	Eggnog: 712.0	.	.	.	NumPredTMR:  12
+
+NODE_2_length_244525_cov_42.796905_144	CDS	Start: 244156	Stop: 244398	BlastVirStart: 54	BlastVirStop: 391	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1164	Eggnog: 0.0	Eggnog: 935.0	.	.	.	NumPredTMR:  12
+
+NODE_2_length_244525_cov_42.796905_145	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1165	Eggnog: 2.84e-189	Eggnog: 524.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_146	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1166	Eggnog: 0.0	Eggnog: 1525.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_147	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1167	Eggnog: 2e-204	Eggnog: 565.0	.	.	.	NumPredTMR:  6
+
+NODE_2_length_244525_cov_42.796905_148	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 199310.c1043	Eggnog: 0.0	Eggnog: 1200.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_149	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1169	Eggnog: 3.83e-161	Eggnog: 451.0	.	.	.	NumPredTMR:  3
+
+NODE_2_length_244525_cov_42.796905_150	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1170	Eggnog: 9.6e-269	Eggnog: 734.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_151	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1171	Eggnog: 3.79e-308	Eggnog: 840.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_152	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1172	Eggnog: 5.08e-173	Eggnog: 484.0	SigP-Region: lipoprotein_signal_peptide	SigP-RegionStart: 1	SigP-RegionEnd: 19	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_153	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1173	Eggnog: 2.21e-154	Eggnog: 434.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_154	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 1440052.EAKF1_ch0546c	Eggnog: 0.0	Eggnog: 1076.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_155	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 1440052.EAKF1_ch0545c	Eggnog: 2.05e-63	Eggnog: 193.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_156	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1176	Eggnog: 0.0	Eggnog: 1552.0	.	.	.	NumPredTMR:  13
+
+NODE_2_length_244525_cov_42.796905_157	CDS	Start: 244156	Stop: 244398	BlastVirStart: 4	BlastVirStop: 580	CR-CutOff: Strict	CR-Pass_bit: 1000	CR-BestHitBit: 1191.79	CR-BestHitARO: msbA	CR-BestIdent:100.0	CR-ARO: 3003950	CR-ModelType: protein homolog model	CR-SNPinARO: n/a	CR-OtherSNP: n/a	CR-DrugClass: nitroimidazole antibiotic	CR-ResMech: antibiotic efflux	CR-AMRFam: ATP-binding cassette (ABC) antibiotic efflux pump	CR-PredDNA: 	CR-%LenRefSeq: 100.00	CR-ID: gnl|BL_ORD_ID|797|hsp_num:0	Eggnog: 155864.EDL933_1177	Eggnog: 0.0	Eggnog: 1097.0	.	.	.	NumPredTMR:  6
+
+NODE_2_length_244525_cov_42.796905_158	CDS	Start: 244156	Stop: 244398	BlastVirStart: 5	BlastVirStop: 309	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1178	Eggnog: 4.38e-241	Eggnog: 662.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_159	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1179	Eggnog: 3.11e-312	Eggnog: 848.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_160	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 1440052.EAKF1_ch0540c	Eggnog: 1.15e-38	Eggnog: 128.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_161	CDS	Start: 244156	Stop: 244398	BlastVirStart: 1	BlastVirStop: 245	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1181	Eggnog: 6.65e-180	Eggnog: 500.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_162	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1182	Eggnog: 1.62e-225	Eggnog: 620.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_163	CDS	Start: 244156	Stop: 244398	BlastVirStart: 5	BlastVirStop: 246	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1183	Eggnog: 1.51e-186	Eggnog: 518.0	.	.	.	NumPredTMR:  2
+
+NODE_2_length_244525_cov_42.796905_164	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1184	Eggnog: 5.1e-195	Eggnog: 540.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_165	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1185	Eggnog: 0.0	Eggnog: 866.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_166	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1186	Eggnog: 1.89e-163	Eggnog: 457.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_167	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1187	Eggnog: 0.0	Eggnog: 2784.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_168	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1188	Eggnog: 0.0	Eggnog: 1230.0	SigP-Region: signal_peptide	SigP-RegionStart: 1	SigP-RegionEnd: 30	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_169	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1189	Eggnog: 1.02e-130	Eggnog: 370.0	SigP-Region: signal_peptide	SigP-RegionStart: 1	SigP-RegionEnd: 30	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_170	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1190	Eggnog: 3.08e-164	Eggnog: 458.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_171	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1191	Eggnog: 2.18e-289	Eggnog: 790.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_172	CDS	Start: 244156	Stop: 244398	BlastVirStart: 2	BlastVirStop: 362	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1192	Eggnog: 1.86e-266	Eggnog: 729.0	SigP-Region: signal_peptide	SigP-RegionStart: 1	SigP-RegionEnd: 22	NumPredTMR:  16
+
+NODE_2_length_244525_cov_42.796905_173	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1193	Eggnog: 0.0	Eggnog: 942.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_174	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1194	Eggnog: 7.44e-299	Eggnog: 814.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_175	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1196	Eggnog: 0.0	Eggnog: 1745.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_176	CDS	Start: 244156	Stop: 244398	BlastVirStart: 12	BlastVirStop: 211	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1197	Eggnog: 2.03e-173	Eggnog: 484.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_177	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 199310.c1077	Eggnog: 6.03e-177	Eggnog: 494.0	.	.	.	NumPredTMR:  6
+
+NODE_2_length_244525_cov_42.796905_178	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1199	Eggnog: 7.76e-280	Eggnog: 764.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_179	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1200	Eggnog: 2.21e-225	Eggnog: 621.0	SigP-Region: signal_peptide	SigP-RegionStart: 1	SigP-RegionEnd: 21	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_180	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1201	Eggnog: 3.11e-134	Eggnog: 380.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_181	CDS	Start: 244156	Stop: 244398	BlastVirStart: 27	BlastVirStop: 178	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1202	Eggnog: 4.29e-117	Eggnog: 336.0	SigP-Region: signal_peptide	SigP-RegionStart: 1	SigP-RegionEnd: 21	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_182	CDS	Start: 244156	Stop: 244398	BlastVirStart: 31	BlastVirStop: 229	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 316407.4062507	Eggnog: 2.13e-164	Eggnog: 460.0	SigP-Region: lipoprotein_signal_peptide	SigP-RegionStart: 1	SigP-RegionEnd: 20	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_183	CDS	Start: 244156	Stop: 244398	BlastVirStart: 26	BlastVirStop: 164	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1204	Eggnog: 3.08e-126	Eggnog: 360.0	SigP-Region: signal_peptide	SigP-RegionStart: 1	SigP-RegionEnd: 35	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_184	CDS	Start: 244156	Stop: 244398	BlastVirStart: 1	BlastVirStop: 653	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 316407.4062508	Eggnog: 0.0	Eggnog: 1277.0	.	.	.	NumPredTMR:  20
+
+NODE_2_length_244525_cov_42.796905_185	CDS	Start: 244156	Stop: 244398	BlastVirStart: 7	BlastVirStop: 309	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1206	Eggnog: 5.54e-243	Eggnog: 666.0	SigP-Region: signal_peptide	SigP-RegionStart: 1	SigP-RegionEnd: 30	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_186	CDS	Start: 244156	Stop: 244398	BlastVirStart: 8	BlastVirStop: 158	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 198214.SF0943	Eggnog: 2.65e-108	Eggnog: 313.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_187	CDS	Start: 244156	Stop: 244398	BlastVirStart: 18	BlastVirStop: 186	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 198214.SF0944	Eggnog: 1.74e-129	Eggnog: 368.0	SigP-Region: lipoprotein_signal_peptide	SigP-RegionStart: 1	SigP-RegionEnd: 33	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_188	CDS	Start: 244156	Stop: 244398	BlastVirStart: 12	BlastVirStop: 146	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1209	Eggnog: 2.44e-115	Eggnog: 331.0	SigP-Region: signal_peptide	SigP-RegionStart: 1	SigP-RegionEnd: 26	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_189	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1211	Eggnog: 6.26e-245	Eggnog: 672.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_190	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1212	Eggnog: 5.25e-132	Eggnog: 374.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_191	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1213	Eggnog: 3.25e-275	Eggnog: 751.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_192	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1214	Eggnog: 0.0	Eggnog: 1419.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_193	CDS	Start: 244156	Stop: 244398	BlastVirStart: 319	BlastVirStop: 496	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1215	Eggnog: 0.0	Eggnog: 1229.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_194	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1216	Eggnog: 8.44e-300	Eggnog: 818.0	.	.	.	NumPredTMR:  8
+
+NODE_2_length_244525_cov_42.796905_195	CDS	Start: 244156	Stop: 244398	BlastVirStart: 10	BlastVirStop: 316	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1217	Eggnog: 0.0	Eggnog: 1070.0	.	.	.	NumPredTMR:  1
+
+NODE_2_length_244525_cov_42.796905_196	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1218	Eggnog: 6.57e-134	Eggnog: 379.0	SigP-Region: lipoprotein_signal_peptide	SigP-RegionStart: 1	SigP-RegionEnd: 15	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_197	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 1440052.EAKF1_ch0513c	Eggnog: 3.63e-33	Eggnog: 114.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_198	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 199310.c1090	Eggnog: 2.74e-150	Eggnog: 422.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_199	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1222	Eggnog: 0.0	Eggnog: 1174.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_200	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1223	Eggnog: 1.41e-101	Eggnog: 294.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_201	CDS	Start: 244156	Stop: 244398	BlastVirStart: 1	BlastVirStop: 346	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1224	Eggnog: 7.3e-251	Eggnog: 688.0	SigP-Region: signal_peptide	SigP-RegionStart: 1	SigP-RegionEnd: 21	NumPredTMR:  8
+
+NODE_2_length_244525_cov_42.796905_202	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1225	Eggnog: 1.52e-112	Eggnog: 323.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_203	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1226	Eggnog: 9.5e-147	Eggnog: 413.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_204	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1227	Eggnog: 0.0	Eggnog: 1420.0	.	.	.	NumPredTMR:  12
+
+NODE_2_length_244525_cov_42.796905_205	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1228	Eggnog: 4.07e-100	Eggnog: 290.0	.	.	.	NumPredTMR:  2
+
+NODE_2_length_244525_cov_42.796905_206	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 199310.c1099	Eggnog: 0.0	Eggnog: 1427.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_207	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 198214.SF0965	Eggnog: 5.07e-111	Eggnog: 318.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_208	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1231	Eggnog: 3.4e-150	Eggnog: 423.0	SigP-Region: signal_peptide	SigP-RegionStart: 1	SigP-RegionEnd: 20	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_209	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1233	Eggnog: 2.25e-94	Eggnog: 275.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_210	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 1440052.EAKF1_ch0500	Eggnog: 8.88e-70	Eggnog: 210.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_211	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1235	Eggnog: 1.54e-289	Eggnog: 790.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_212	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1236	Eggnog: 1.78e-63	Eggnog: 193.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_213	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 198214.SF0971	Eggnog: 1.19e-87	Eggnog: 257.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_214	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1238	Eggnog: 2.56e-140	Eggnog: 398.0	.	.	.	NumPredTMR:  7
+
+NODE_2_length_244525_cov_42.796905_215	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 155864.EDL933_1239	Eggnog: 5.89e-137	Eggnog: 391.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_216	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 502347.ESCAB7627_2030	Eggnog: 1.52e-78	Eggnog: 242.0	.	.	.	NumPredTMR:  0
+
+NODE_2_length_244525_cov_42.796905_217	CDS	Start: 244156	Stop: 244398	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	Eggnog: 546274.EIKCOROL_00180	Eggnog: 9.46e-06	Eggnog: 46.6	.	.	.	NumPredTMR:  0
+
